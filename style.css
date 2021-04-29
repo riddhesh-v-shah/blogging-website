@@ -1,0 +1,239 @@
+body{
+    min-height: 100vh;
+}
+
+/* .shadow{
+    box-shadow:0 1px 20px rgba(0,0,0,0.6);
+} */
+
+.text-shadow{
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+a,
+a:hover{
+    text-decoration: none;
+    color: #007bff!important;
+    cursor: pointer!important;
+}
+
+.capsule-link,
+.capsule-link:hover{
+    text-decoration: none;
+    color: #FFF!important;
+}
+
+.capsule{
+    height: 30px;
+    padding: 0 1%;
+    border-radius: 30px;
+    color: #FFF;
+    line-height: 30px;
+}
+
+.card-header{
+    padding-bottom: 0;
+}
+
+.name-title,
+.name-title:hover{
+    color: #000!important;
+}
+
+.image-photo{
+    width: 300px;
+}
+
+.delete-btn,
+.edit-btn,
+.publish-btn{
+    border-radius: 40px;
+}
+
+.delete-btn,
+.delete-btn:hover,
+.refuse-btn,
+.refuse-btn:hover{
+    background-color: #FF0000;
+}
+
+.edit-btn,
+.edit-btn:hover{
+    background-color: #0000FF;
+}
+
+.publish-btn,
+.publish-btn:hover,
+.upload-btn,
+.upload-btn:hover,
+.grant-btn,
+.grant-btn:hover{
+    background-color: #00FF00;
+}
+
+.btn{
+    border: none!important;
+}
+
+.date-format{
+    height: 40px;
+    line-height: 40px;
+}
+
+.page-footer{
+    color: #FFF;
+}
+
+.nav-link,
+.nav-link:hover,
+.navbar-brand,
+.navbar-brand:hover{
+    color: #FFF!important;
+}
+
+.btn,
+.btn:hover{
+    color: #FFF!important;
+}
+
+.page-footer{
+    bottom: 0;
+}
+
+#dropdown-menu{
+    margin-left: -135px!important;
+    margin-top: 7px!important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.profile-info{
+    text-align: center;
+}
+
+.profile-image{
+    margin-bottom: 10px;
+}
+
+.profile-image-photo{
+    height: 80px;
+    border-radius: 80px;
+}
+
+/* .page-footer{
+    position: fixed;
+    left: 0;
+    bottom: 100%;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+} */
+
+.dropdown-toggle::after{
+    content: none;
+}
+
+/* .shadow{
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.4);   
+} */
+.card-effect{
+    transition: all .2s ease-out;
+}
+.card-effect:hover{
+    box-shadow: 1px 10px 25px rgba(0,0,0,0.2);
+    transform: translateY(-10px);
+    transition: all .2s ease-out;
+}
+
+/* .card-body{
+    transition: all .2s ease-out;
+}
+
+.card-effect:hover .card-body{
+    transform: translateY(-5px);
+} */
+
+.tabs{
+    margin: 0;
+    padding: 0;
+}
+
+.tab-name{
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px 0 0!important;
+    padding: 10px 0;
+}
+
+.r-tabs-state-active a{
+    color: #000;    
+}
+
+.r-tabs-anchor,
+.r-tabs-anchor:hover{
+    color: #007BFF!important;
+}
+
+.r-tabs-tab.r-tabs-state-active{
+    border-bottom: solid 2px #007BFF;
+}
+
+.view-counter{
+    display: inline-block;
+}
+
+/********************************************************
+                        Pill Section                    
+********************************************************/
+
+.fashion-pill{
+    background: #FF0000;
+}
+
+.food-pill{
+    background: #0000FF;
+}
+
+.travel-pill{
+    background: #008000;
+}
+
+.music-pill{
+    background: #D7DF01;
+}
+
+.lifestyle-pill{
+    background: #728C00;
+}
+
+.fitness-pill{
+    background: #FFA500;
+}
+
+.diy-pill{
+    background: #800080;
+}
+
+.sports-pill{
+    background: #000000;
+}
+
+.finance-pill{
+    background: #A52A2A;
+}
+
+.political-pill{
+    background: #808080;
+}
+
+.personal-pill{
+    background: #5FB404;
+}
+
+.news-pill{
+    background: #04B4AE;
+}
+
+.gaming-pill{
+    background: #AAAAAA;
+}

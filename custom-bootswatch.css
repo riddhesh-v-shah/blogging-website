@@ -1,0 +1,28 @@
+/* .primary-bg{
+  background-image: linear-gradient(to right, #f761a1, #e24ba2, #ca37a4, #ae26a8, #8c1bab)!important;
+  background-image: linear-gradient(to right, #DA22FF 0%, #9733EE 51%, #DA22FF 100%)!important;
+  background-image: linear-gradient(to right, #7F00FF 0%, #B000FF 51%, #E100FF 100%)!important;
+}
+
+.primary-btn{
+  background-image: linear-gradient(to right, #7F00FF 0%, #B000FF 51%, #E100FF 100%)!important;
+  transition: all .3s linear;
+}
+
+.primary-btn:hover{
+  background-position: right center;
+  transition: all .3s linear;
+}
+
+.primary-btn{
+  color: #FFF;
+  transition: all .3s linear;
+  background-size: 200%;
+  background-image: linear-gradient(to right, #7F00FF 0%, #E100FF 51%,#7F00FF 100%)!important;
+}
+
+.primary-btn:hover{
+  color: #FFF;
+  transition: all .3s linear;
+  background-position: right center;
+} */
